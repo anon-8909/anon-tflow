@@ -1,0 +1,14 @@
+# torch==2.0.1
+jupyter
+matplotlib
+numpy
+scipy
+tqdm
+pandas
+seaborn
+posteriordb
+ucimlrepo
+jaxtyping
+statsmodels
+nflows @ git+https://github.com/anon-8909/anon90-nflows
+marginal_tail_adaptive_flows @ git+https://github.com/anon-8909/anon90-marginalTailAdaptiveFlow
