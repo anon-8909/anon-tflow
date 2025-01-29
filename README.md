@@ -9,6 +9,10 @@ Setup the environment and install the package from root of directory with:
 pip install -r requirements.txt
 pip install -e . # editable install for development
 ```
+There are 2 dependencies listed below that have been anonymised for install alongside this codebase.
+These are very minor alterations of publiclly available repositories, but are required for the experiments so provided here.
+- anon90-marginalTailAdaptiveFlow
+- anon90-nflows
 
 ## running experiments
 Scripts for configuring and running experiments are in `experiments/`.
